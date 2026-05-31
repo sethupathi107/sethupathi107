@@ -1,16 +1,21 @@
-## Hi there 👋
+# 💫 About Me:
+Hi 👋, I'm SP<br>Java Backend Developer | Spring Boot Enthusiast | Problem Solver<br><br>Passionate software developer with a strong interest in backend development and building scalable applications. Experienced in developing RESTful APIs using Java and Spring Boot, working with relational databases, implementing authentication and authorization, and applying object-oriented programming principles. Continuously improving skills in Data Structures & Algorithms, System Design, and Backend Engineering.<br><br>🚀 About Me<br>🎓 Computer Science Student<br>💻 Focused on Java Backend Development<br>🌱 Currently learning Advanced Spring Boot, Microservices, and System Design<br>🔍 Interested in Backend Engineering and Software Development<br>📚 Regularly practicing Data Structures & Algorithms and SQL<br>⚡ Enjoy building real-world applications and solving challenging problems<br>🛠️ Tech Stack<br>Languages<br>Java<br>SQL<br>JavaScript<br>Backend Technologies<br>Spring Boot<br>Spring Security<br>REST APIs<br>JWT Authentication<br>JPA / Hibernate<br>Database<br>MySQL<br>Tools & Platforms<br>Git<br>GitHub<br>Swagger / OpenAPI<br>Maven<br>Postman<br>IntelliJ IDEA<br>VS Code<br>📂 Featured Projects<br>Banking Management System API<br>Developed a RESTful Banking API using Spring Boot and MySQL.<br>Implemented account management, deposits, withdrawals, and fund transfers.<br>Secured APIs using Spring Security, JWT Authentication, and BCrypt Password Encoding.<br>Integrated JavaMail for transaction notifications.<br>Generated account statements using iTextPDF.<br>Documented APIs using Swagger/OpenAPI.<br>Additional Projects<br>Developed backend applications following layered architecture.<br>Designed secure authentication and authorization mechanisms.<br>Implemented database operations using Spring Data JPA and Hibernate.<br>📊 Core Competencies<br>Object-Oriented Programming (OOP)<br>Data Structures & Algorithms<br>Database Management Systems (DBMS)<br>Operating Systems<br>Computer Networks<br>SQL Query Optimization<br>RESTful API Development<br>Authentication & Authorization<br>🏆 Goals<br>Build scalable backend applications.<br>Contribute to open-source projects.<br>Strengthen expertise in Spring Ecosystem and Microservices.<br>Grow as a Software Engineer through continuous learning and practical development.<br>📫 Connect With Me<br>LinkedIn: sethupathi-sp107<br>Email: sethupathiofficial107@gmail.com<br><br>“Consistency beats intensity. Small improvements every day lead to remarkable results.”
 
-<!--
-**sethupathi107/sethupathi107** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sethupathi-sp107) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Sethupathiofficial107@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=sethupathi107&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=sethupathi107&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=sethupathi107&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+[![](https://komarev.com/ghpvc/?username=sethupathi107&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
